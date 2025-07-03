@@ -1,6 +1,7 @@
 # Doctar_Case_Study
 Case Study for Doctor
 # Black Fly Detection Case Study
+Dataseti Q2 dosyasından kullanabilirsiniz. Modeli ve kodu Google COLAB de yazdım ve GitHub Resposuna dataset sığmadı
 
 ## İçerik
 - Jupyter Notebook: Docktar_Case_Study.ipynb
