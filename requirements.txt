@@ -1,0 +1,8 @@
+torch
+torchvision
+clip
+opencv-python
+numpy
+Pillow
+tqdm
+segment-anything
